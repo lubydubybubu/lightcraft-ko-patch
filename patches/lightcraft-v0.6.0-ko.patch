@@ -2693,10 +2693,10 @@ index 0d7e157..564d274 100644
  }
 diff --git a/docs/localization-ko.md b/docs/localization-ko.md
 new file mode 100644
-index 0000000..2eb0c22
+index 0000000..2b49276
 --- /dev/null
 +++ b/docs/localization-ko.md
-@@ -0,0 +1,128 @@
+@@ -0,0 +1,127 @@
 +# LightCraft 한국어 표시
 +
 +LightCraft는 한국어(`ko`) 인터페이스를 지원합니다. 언어 설정은 `ui.json`의 `language`에 코드
@@ -2720,8 +2720,7 @@ index 0000000..2eb0c22
 +Adobe Lightroom 한국어판에서 사용자에게 익숙한 용어를 따랐습니다. Adobe의 문자열·파일·리소스는
 +복사하지 않았고, 용어 선택만 참고했습니다. **원어민 검토는 아직 받지 않았습니다.**
 +
-+> English summary: original translation, machine-translated by Claude Opus 5.5 for the repository
-+> owner (a Korean photographer). Upstream had no Korean. Terminology follows the words Korean
++> English summary: original translation, machine-translated by Claude Opus 5.5. Upstream had no Korean. Terminology follows the words Korean
 +> Lightroom users know; no Adobe text or assets were copied. It needs a native-speaker review.
 +
 +## 문체 원칙

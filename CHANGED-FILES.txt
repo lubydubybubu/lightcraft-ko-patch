@@ -5,7 +5,7 @@
  crates/ui-egui/src/menus.rs               |    2 +
  crates/ui-egui/src/panels/keyword_list.rs |    4 +-
  crates/ui-egui/src/theme.rs               |   11 +-
- docs/localization-ko.md                   |  128 ++++++++++
+ docs/localization-ko.md                   |  127 +++++++++
  docs/localization-parity.md               |   13 +-
  docs/localization.md                      |    6 +-
- 10 files changed, 2703 insertions(+), 17 deletions(-)
+ 10 files changed, 2702 insertions(+), 17 deletions(-)
